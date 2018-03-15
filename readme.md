@@ -11,3 +11,5 @@ Includes:
 - themes
 - animations
 - audio playback
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/4a5b1923-85b1-4245-bedf-f37da0794558/branches/Dev/badge)](https://appcenter.ms)
